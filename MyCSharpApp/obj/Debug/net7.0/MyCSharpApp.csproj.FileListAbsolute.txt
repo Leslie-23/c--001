@@ -1,0 +1,15 @@
+C:\Users\LESLIE PAUL AJAYI\cSharp\mycsharpapp\bin\Debug\net7.0\MyCSharpApp.exe
+C:\Users\LESLIE PAUL AJAYI\cSharp\mycsharpapp\bin\Debug\net7.0\MyCSharpApp.deps.json
+C:\Users\LESLIE PAUL AJAYI\cSharp\mycsharpapp\bin\Debug\net7.0\MyCSharpApp.runtimeconfig.json
+C:\Users\LESLIE PAUL AJAYI\cSharp\mycsharpapp\bin\Debug\net7.0\MyCSharpApp.dll
+C:\Users\LESLIE PAUL AJAYI\cSharp\mycsharpapp\bin\Debug\net7.0\MyCSharpApp.pdb
+C:\Users\LESLIE PAUL AJAYI\cSharp\mycsharpapp\obj\Debug\net7.0\MyCSharpApp.csproj.AssemblyReference.cache
+C:\Users\LESLIE PAUL AJAYI\cSharp\mycsharpapp\obj\Debug\net7.0\MyCSharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LESLIE PAUL AJAYI\cSharp\mycsharpapp\obj\Debug\net7.0\MyCSharpApp.AssemblyInfoInputs.cache
+C:\Users\LESLIE PAUL AJAYI\cSharp\mycsharpapp\obj\Debug\net7.0\MyCSharpApp.AssemblyInfo.cs
+C:\Users\LESLIE PAUL AJAYI\cSharp\mycsharpapp\obj\Debug\net7.0\MyCSharpApp.csproj.CoreCompileInputs.cache
+C:\Users\LESLIE PAUL AJAYI\cSharp\mycsharpapp\obj\Debug\net7.0\MyCSharpApp.dll
+C:\Users\LESLIE PAUL AJAYI\cSharp\mycsharpapp\obj\Debug\net7.0\refint\MyCSharpApp.dll
+C:\Users\LESLIE PAUL AJAYI\cSharp\mycsharpapp\obj\Debug\net7.0\MyCSharpApp.pdb
+C:\Users\LESLIE PAUL AJAYI\cSharp\mycsharpapp\obj\Debug\net7.0\MyCSharpApp.genruntimeconfig.cache
+C:\Users\LESLIE PAUL AJAYI\cSharp\mycsharpapp\obj\Debug\net7.0\ref\MyCSharpApp.dll
