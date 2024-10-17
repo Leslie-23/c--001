@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\LESLIE PAUL AJAYI\\cSharp\\MyCSharpApp\\MyCSharpApp.csproj": {}
+    "C:\\Users\\LESLIE PAUL AJAYI\\cSharp\\mycsharpapp\\MyCSharpApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\LESLIE PAUL AJAYI\\cSharp\\MyCSharpApp\\MyCSharpApp.csproj": {
+    "C:\\Users\\LESLIE PAUL AJAYI\\cSharp\\mycsharpapp\\MyCSharpApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\LESLIE PAUL AJAYI\\cSharp\\MyCSharpApp\\MyCSharpApp.csproj",
+        "projectUniqueName": "C:\\Users\\LESLIE PAUL AJAYI\\cSharp\\mycsharpapp\\MyCSharpApp.csproj",
         "projectName": "MyCSharpApp",
-        "projectPath": "C:\\Users\\LESLIE PAUL AJAYI\\cSharp\\MyCSharpApp\\MyCSharpApp.csproj",
+        "projectPath": "C:\\Users\\LESLIE PAUL AJAYI\\cSharp\\mycsharpapp\\MyCSharpApp.csproj",
         "packagesPath": "C:\\Users\\LESLIE PAUL AJAYI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\LESLIE PAUL AJAYI\\cSharp\\MyCSharpApp\\obj\\",
+        "outputPath": "C:\\Users\\LESLIE PAUL AJAYI\\cSharp\\mycsharpapp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\LESLIE PAUL AJAYI\\AppData\\Roaming\\NuGet\\NuGet.Config",

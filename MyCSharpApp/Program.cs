@@ -22,5 +22,9 @@
         
         // Find the length of the array
         Console.WriteLine("Length of array: " + numbers.Length);
+
+        dynamic leslie = "leslie";
+
+        int* ten 
     }
 }
