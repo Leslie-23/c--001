@@ -25,6 +25,14 @@
 
         dynamic leslie = "leslie";
 
-        int* ten 
+          int num = 42;
+        int* ptr = &num;
+
+        Console.WriteLine("Value of num: " + num);           // Output: 42
+        Console.WriteLine("Address of num: " + (int)ptr);    // Outputs memory address
+        Console.WriteLine("Value using pointer: " + *ptr);   // Output: 42
+
+        *ptr = 50; // Modify value using pointer
+        Console.WriteLine("Modified value of num: " + num);  // Output: 50
     }
 }
